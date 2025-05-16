@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dronesnow.in.ico",
     "slug": "drone-snow",
     "status": "down",
-    "uptime": "15.35%",
-    "uptimeDay": "15.35%",
-    "uptimeWeek": "15.35%",
-    "uptimeMonth": "15.35%",
-    "uptimeYear": "15.35%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 18
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 18
     }
   }
 ]
