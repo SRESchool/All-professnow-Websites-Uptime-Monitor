@@ -91,6 +91,9 @@ notifications:
     smtpPort: 587
     smtpUsername: contact@motoshare.in
     smtpPassword: kmxg nshc vsrf kxqj
+    events:
+      - up
+      - down
 
 # Assignees for issues
 assignees:
