@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1911,
-    "timeDay": 1911,
-    "timeWeek": 1911,
-    "timeMonth": 1911,
-    "timeYear": 1911,
+    "time": 1896,
+    "timeDay": 1896,
+    "timeWeek": 1896,
+    "timeMonth": 1896,
+    "timeYear": 1896,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2937,
-    "timeDay": 2937,
-    "timeWeek": 2937,
-    "timeMonth": 2937,
-    "timeYear": 2937,
+    "time": 3006,
+    "timeDay": 3006,
+    "timeWeek": 3006,
+    "timeMonth": 3006,
+    "timeYear": 3006,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 1052,
-    "timeWeek": 1052,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "time": 1038,
+    "timeDay": 1038,
+    "timeWeek": 1038,
+    "timeMonth": 1038,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2290,
-    "timeDay": 2290,
-    "timeWeek": 2290,
-    "timeMonth": 2290,
-    "timeYear": 2290,
+    "time": 2432,
+    "timeDay": 2432,
+    "timeWeek": 2432,
+    "timeMonth": 2432,
+    "timeYear": 2432,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dronesnow.in.ico",
     "slug": "drone-snow",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 55
+      "2025-05-16": 83
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 55
+      "2025-05-16": 83
     }
   }
 ]
