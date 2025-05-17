@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "90.22%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "90.22%",
+    "uptime": "89.49%",
+    "uptimeDay": "87.62%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "89.49%",
+    "uptimeYear": "89.49%",
     "time": 1873,
-    "timeDay": 1869,
+    "timeDay": 1870,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 165
+      "2025-05-17": 178
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2981,
-    "timeDay": 2990,
+    "timeDay": 2992,
     "timeWeek": 2981,
     "timeMonth": 2981,
     "timeYear": 2981,
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 989,
-    "timeDay": 987,
+    "timeDay": 988,
     "timeWeek": 989,
     "timeMonth": 989,
     "timeYear": 989,
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2491,
-    "timeDay": 2517,
+    "timeDay": 2520,
     "timeWeek": 2491,
     "timeMonth": 2491,
     "timeYear": 2491,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 565,
+      "2025-05-17": 579,
       "2025-05-16": 1118
     }
   },
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 565,
+      "2025-05-17": 579,
       "2025-05-16": 1118
     }
   }
