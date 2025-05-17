@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "72.40%",
-    "uptimeDay": "59.81%",
-    "uptimeWeek": "72.40%",
-    "uptimeMonth": "72.40%",
-    "uptimeYear": "72.40%",
+    "uptime": "71.58%",
+    "uptimeDay": "58.13%",
+    "uptimeWeek": "71.58%",
+    "uptimeMonth": "71.58%",
+    "uptimeYear": "71.58%",
     "time": 1873,
-    "timeDay": 1853,
+    "timeDay": 1848,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 579
+      "2025-05-17": 603
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2971,
-    "timeDay": 2986,
-    "timeWeek": 2971,
-    "timeMonth": 2971,
-    "timeYear": 2971,
+    "time": 2969,
+    "timeDay": 2984,
+    "timeWeek": 2969,
+    "timeMonth": 2969,
+    "timeYear": 2969,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2500,
-    "timeDay": 2570,
-    "timeWeek": 2500,
-    "timeMonth": 2500,
-    "timeYear": 2500,
+    "time": 2496,
+    "timeDay": 2567,
+    "timeWeek": 2496,
+    "timeMonth": 2496,
+    "timeYear": 2496,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 979,
+      "2025-05-17": 1003,
       "2025-05-16": 1118
     }
   },
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desi-nri",
     "status": "up",
-    "uptime": "12.24%",
-    "uptimeDay": "17.83%",
-    "uptimeWeek": "12.24%",
-    "uptimeMonth": "12.24%",
-    "uptimeYear": "12.24%",
-    "time": 1189,
-    "timeDay": 1189,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
+    "uptime": "13.24%",
+    "uptimeDay": "19.50%",
+    "uptimeWeek": "13.24%",
+    "uptimeMonth": "13.24%",
+    "uptimeYear": "13.24%",
+    "time": 1183,
+    "timeDay": 1183,
+    "timeWeek": 1183,
+    "timeMonth": 1183,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2025-05-17": 722,
       "2025-05-16": 1118
