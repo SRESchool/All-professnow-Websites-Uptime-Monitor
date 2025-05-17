@@ -4,18 +4,20 @@
     "url": "https://professnow.com",
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1873,
     "timeDay": 1872,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-17": 1
+    }
   },
   {
     "name": "IReviewed",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2970,
-    "timeDay": 2967,
-    "timeWeek": 2970,
-    "timeMonth": 2970,
-    "timeYear": 2970,
+    "time": 2975,
+    "timeDay": 2973,
+    "timeWeek": 2975,
+    "timeMonth": 2975,
+    "timeYear": 2975,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 976,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 983,
+    "timeDay": 979,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2450,
-    "timeDay": 2451,
-    "timeWeek": 2450,
-    "timeMonth": 2450,
-    "timeYear": 2450,
+    "time": 2453,
+    "timeDay": 2455,
+    "timeWeek": 2453,
+    "timeMonth": 2453,
+    "timeYear": 2453,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 395,
+      "2025-05-17": 401,
       "2025-05-16": 1118
     }
   },
@@ -109,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 395,
+      "2025-05-17": 401,
       "2025-05-16": 1118
     }
   }
