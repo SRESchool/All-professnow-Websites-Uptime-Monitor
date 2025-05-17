@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "86.91%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "86.91%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "86.91%",
+    "uptime": "86.15%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "86.15%",
+    "uptimeMonth": "86.15%",
+    "uptimeYear": "86.15%",
     "time": 1873,
-    "timeDay": 1866,
+    "timeDay": 1859,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 229
+      "2025-05-17": 244
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2975,
-    "timeDay": 2998,
-    "timeWeek": 2975,
-    "timeMonth": 2975,
-    "timeYear": 2975,
+    "time": 2987,
+    "timeDay": 2997,
+    "timeWeek": 2987,
+    "timeMonth": 2987,
+    "timeYear": 2987,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 988,
-    "timeWeek": 986,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "time": 984,
+    "timeDay": 983,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2538,
-    "timeDay": 2591,
-    "timeWeek": 2538,
-    "timeMonth": 2538,
-    "timeYear": 2538,
+    "time": 2535,
+    "timeDay": 2586,
+    "timeWeek": 2535,
+    "timeMonth": 2535,
+    "timeYear": 2535,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 629,
+      "2025-05-17": 644,
       "2025-05-16": 1118
     }
   },
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 629,
+      "2025-05-17": 644,
       "2025-05-16": 1118
     }
   }
