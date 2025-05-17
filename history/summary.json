@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "62.48%",
-    "uptimeDay": "36.69%",
-    "uptimeWeek": "62.48%",
-    "uptimeMonth": "62.48%",
-    "uptimeYear": "62.48%",
+    "uptime": "62.00%",
+    "uptimeDay": "35.37%",
+    "uptimeWeek": "62.00%",
+    "uptimeMonth": "62.00%",
+    "uptimeYear": "62.00%",
     "time": 1873,
-    "timeDay": 1844,
+    "timeDay": 1836,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 912
+      "2025-05-17": 931
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2954,
-    "timeDay": 2959,
+    "timeDay": 2957,
     "timeWeek": 2954,
     "timeMonth": 2954,
     "timeYear": 2954,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 1312,
+      "2025-05-17": 1331,
       "2025-05-16": 1118
     }
   },
@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desi-nri",
     "status": "up",
-    "uptime": "24.27%",
-    "uptimeDay": "40.95%",
-    "uptimeWeek": "24.27%",
-    "uptimeMonth": "24.27%",
-    "uptimeYear": "24.27%",
+    "uptime": "24.85%",
+    "uptimeDay": "42.26%",
+    "uptimeWeek": "24.85%",
+    "uptimeMonth": "24.85%",
+    "uptimeYear": "24.85%",
     "time": 1154,
     "timeDay": 1154,
     "timeWeek": 1154,
