@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "78.34%",
-    "uptimeDay": "70.84%",
-    "uptimeWeek": "78.34%",
-    "uptimeMonth": "78.34%",
-    "uptimeYear": "78.34%",
+    "uptime": "77.90%",
+    "uptimeDay": "70.09%",
+    "uptimeWeek": "77.90%",
+    "uptimeMonth": "77.90%",
+    "uptimeYear": "77.90%",
     "time": 1873,
-    "timeDay": 1869,
+    "timeDay": 1862,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 420
+      "2025-05-17": 431
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2970,
-    "timeDay": 2996,
-    "timeWeek": 2970,
-    "timeMonth": 2970,
-    "timeYear": 2970,
+    "time": 2967,
+    "timeDay": 2985,
+    "timeWeek": 2967,
+    "timeMonth": 2967,
+    "timeYear": 2967,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 978,
-    "timeWeek": 978,
-    "timeMonth": 978,
-    "timeYear": 978,
+    "time": 977,
+    "timeDay": 974,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2498,
-    "timeDay": 2558,
-    "timeWeek": 2498,
-    "timeMonth": 2498,
-    "timeYear": 2498,
+    "time": 2495,
+    "timeDay": 2549,
+    "timeWeek": 2495,
+    "timeMonth": 2495,
+    "timeYear": 2495,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 820,
+      "2025-05-17": 831,
       "2025-05-16": 1118
     }
   },
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desi-nri",
     "status": "up",
-    "uptime": "5.05%",
-    "uptimeDay": "6.79%",
-    "uptimeWeek": "5.05%",
-    "uptimeMonth": "5.05%",
-    "uptimeYear": "5.05%",
-    "time": 1131,
-    "timeDay": 1131,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 1131,
+    "uptime": "5.57%",
+    "uptimeDay": "7.54%",
+    "uptimeWeek": "5.57%",
+    "uptimeMonth": "5.57%",
+    "uptimeYear": "5.57%",
+    "time": 1106,
+    "timeDay": 1106,
+    "timeWeek": 1106,
+    "timeMonth": 1106,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-05-17": 722,
       "2025-05-16": 1118
