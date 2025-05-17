@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "88.93%",
-    "uptimeDay": "86.88%",
-    "uptimeWeek": "88.93%",
-    "uptimeMonth": "88.93%",
-    "uptimeYear": "88.93%",
+    "uptime": "88.37%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "88.37%",
+    "uptimeMonth": "88.37%",
+    "uptimeYear": "88.37%",
     "time": 1873,
-    "timeDay": 1866,
+    "timeDay": 1864,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 189
+      "2025-05-17": 200
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2982,
+    "time": 2977,
     "timeDay": 2996,
-    "timeWeek": 2982,
-    "timeMonth": 2982,
-    "timeYear": 2982,
+    "timeWeek": 2977,
+    "timeMonth": 2977,
+    "timeYear": 2977,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
+    "time": 987,
     "timeDay": 988,
-    "timeWeek": 989,
-    "timeMonth": 989,
-    "timeYear": 989,
+    "timeWeek": 987,
+    "timeMonth": 987,
+    "timeYear": 987,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2492,
-    "timeDay": 2521,
-    "timeWeek": 2492,
-    "timeMonth": 2492,
-    "timeYear": 2492,
+    "time": 2545,
+    "timeDay": 2593,
+    "timeWeek": 2545,
+    "timeMonth": 2545,
+    "timeYear": 2545,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 589,
+      "2025-05-17": 600,
       "2025-05-16": 1118
     }
   },
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 589,
+      "2025-05-17": 600,
       "2025-05-16": 1118
     }
   }
