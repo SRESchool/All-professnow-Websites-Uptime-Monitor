@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "69.28%",
-    "uptimeDay": "53.24%",
-    "uptimeWeek": "69.28%",
-    "uptimeMonth": "69.28%",
-    "uptimeYear": "69.28%",
+    "uptime": "68.44%",
+    "uptimeDay": "51.37%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "68.44%",
+    "uptimeYear": "68.44%",
     "time": 1873,
-    "timeDay": 1846,
+    "timeDay": 1845,
     "timeWeek": 1873,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2025-05-17": 673
+      "2025-05-17": 700
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2969,
-    "timeDay": 2989,
-    "timeWeek": 2969,
-    "timeMonth": 2969,
-    "timeYear": 2969,
+    "time": 2970,
+    "timeDay": 2990,
+    "timeWeek": 2970,
+    "timeMonth": 2970,
+    "timeYear": 2970,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 980,
-    "timeDay": 985,
+    "timeDay": 986,
     "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 980,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 1074,
+      "2025-05-17": 1101,
       "2025-05-16": 1118
     }
   },
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desi-nri",
     "status": "up",
-    "uptime": "16.03%",
-    "uptimeDay": "24.40%",
-    "uptimeWeek": "16.03%",
-    "uptimeMonth": "16.03%",
-    "uptimeYear": "16.03%",
-    "time": 1180,
-    "timeDay": 1180,
-    "timeWeek": 1180,
-    "timeMonth": 1180,
-    "timeYear": 1180,
+    "uptime": "17.05%",
+    "uptimeDay": "26.27%",
+    "uptimeWeek": "17.05%",
+    "uptimeMonth": "17.05%",
+    "uptimeYear": "17.05%",
+    "time": 1178,
+    "timeDay": 1178,
+    "timeWeek": 1178,
+    "timeMonth": 1178,
+    "timeYear": 1178,
     "dailyMinutesDown": {
       "2025-05-17": 722,
       "2025-05-16": 1118
